@@ -1,4 +1,4 @@
-CREATE TABLE public.employees(
+CREATE TABLE employees(
 firstname varchar(50) not null ,
 lastname varchar(50) not null, 
 enddate DATE, 
